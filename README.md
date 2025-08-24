@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Anushka  
 
-<!--
-**real-anushkaa/real-anushkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Python | Data Science & Analytics Enthusiast  
 
-Here are some ideas to get you started:
+### 🌟 About Me  
+- 🎓 B.Tech CSE, 3rd Year  
+- 💡 Passionate about Machine Learning , Data Science and Analytics  
+- 🖥️ Skilled in **C, DSA using C++, Python**  
+- 📚 Certifications in **Soft Skills, Java Programming, Cloud Computing (NPTEL)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+- **Languages**: Python, C, C++ 
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Flask  
+- **Tools**: VS Code, MySQL  
+
+---
+
+### 📈 GitHub Stats  
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkavaran&show_icons=true&theme=radical)  
+
+---
+
+### 🌍 Connect with Me  
+[LinkedIn](www.linkedin.com/in/anushka-v-545244380) | [Email](vannu.9204@gmail.com) 
+
