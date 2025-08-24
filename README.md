@@ -15,8 +15,4 @@
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Flask  
 - **Tools**: VS Code, MySQL    
 
----
-
-### 🌍 Connect with Me  
-[LinkedIn](www.linkedin.com/in/anushka-v-545244380) | [Email](vannu.9204@gmail.com) 
 
