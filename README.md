@@ -13,12 +13,7 @@
 ### 🛠️ Tech Stack  
 - **Languages**: Python, C, C++ 
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Flask  
-- **Tools**: VS Code, MySQL  
-
----
-
-### 📈 GitHub Stats  
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkavaran&show_icons=true&theme=radical)  
+- **Tools**: VS Code, MySQL    
 
 ---
 
